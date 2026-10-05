@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SesiLogin</string>
+    <string name="login_title">Selamat Datang</string>
+    <string name="login_subtitle">Silakan masuk ke akun Anda</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="remember_me">Ingat saya (Auto-login)</string>
+    <string name="select_avatar">Pilih Avatar Profil:</string>
+    <string name="btn_login">Masuk</string>
+
+    <string name="dashboard_title">Dashboard Profil</string>
+    <string name="session_info_title">Informasi Sesi Login</string>
+    <string name="label_email">Email:</string>
+    <string name="label_nama">Nama:</string>
+    <string name="label_waktu_login">Waktu Login:</string>
+    <string name="btn_change_password">Ganti Sandi</string>
+    <string name="btn_logout">Keluar</string>
+
+    <string name="change_password_title">Ganti Sandi</string>
+    <string name="old_password_hint">Sandi Saat Ini</string>
+    <string name="new_password_hint">Sandi Baru (min. 6 karakter)</string>
+    <string name="confirm_password_hint">Konfirmasi Sandi Baru</string>
+    <string name="btn_save_password">Simpan Sandi Baru</string>
+
+    <string name="err_email_empty">Email tidak boleh kosong</string>
+    <string name="err_password_short">Sandi minimal 6 karakter</string>
+    <string name="err_login_failed">Email atau sandi salah!</string>
+    <string name="err_old_password_wrong">Sandi lama salah!</string>
+    <string name="err_confirm_password_mismatch">Konfirmasi sandi tidak cocok!</string>
+    <string name="msg_password_changed">Sandi berhasil diperbarui!</string>
+    <string name="msg_session_expired">Sesi Anda telah kadaluarsa (lebih dari 7 hari). Silakan login kembali.</string>
+</resources>
